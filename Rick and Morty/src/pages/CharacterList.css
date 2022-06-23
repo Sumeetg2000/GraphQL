@@ -1,0 +1,13 @@
+.image__layout {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.search {
+    text-align: center;
+    margin: 10px 10px;
+}
+.location{
+    height:4vh
+}
